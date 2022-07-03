@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../Navbar";
+import Sidebar from "../Sidebar";
 import {
   HeroContainer,
   HeroContent,
@@ -11,6 +12,7 @@ import {
 const Hero = () => {
   return (
     <HeroContainer>
+      <Sidebar />
       <Navbar />
       <HeroContent>
         <HeroItems>
