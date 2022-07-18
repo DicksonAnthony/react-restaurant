@@ -1,4 +1,4 @@
 # React Resturant
-Learnt how to loop through content in an array instead of hard coding it. al though i still need to practice it.
+Learn't how to map through data instead of hard coding it. I still need to practice tho.
 # Deploy link
 https://pezza.netlify.app
